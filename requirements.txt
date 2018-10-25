@@ -1,0 +1,14 @@
+pandas
+ipykernel
+matplotlib
+statsmodels
+seaborn
+sklearn
+scipy
+pydotplus
+tqdm
+
+jpholiday
+
+tensorflow
+keras

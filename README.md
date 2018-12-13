@@ -1,12 +1,10 @@
 machine learning Agurim
 ===============
-experimentation of machine learning method with the Data from Agurim.
+small exploration made with network traffic data from [Agurim](http://mawi.wide.ad.jp/~agurim/)  
+to apply simple machine learning algorithm to forecast future network traffic.
 
-The objective of experimentation was to apply simple machine learning algorithm to forecast
-the traffic in the future.
-
-this project is not rigorous in his application of machine learning and clean code.
-This is more a simple exploration of algorithms
+this project is not rigorous in his application of machine learning algorithm and clean code.
+This is really far from a good practice of clean code 
 
 ## Getting Started
 These Instructions will allow to setup  the python project to run the jupyter notebooks
@@ -25,10 +23,11 @@ pip install -r requirements.txt
 
 * [Agurim](http://mawi.wide.ad.jp/~agurim/) - network traffic monitor based on flexible multi-dimensional flow aggregation
  using Japan's Wide Data
- 
- 
+* [Agurim-Extractor](https://github.com/BigJerBD/Agurim-Extractor) Python tool used to extract data from the agurim website using
+ the REST API 
+  
 ## Authors
 
-* **Jérémie Bigras-Dunberry** - *Initial work* - Canadian NTT intern 
+* **Jérémie Bigras-Dunberry** - *Initial work* 
 
 
